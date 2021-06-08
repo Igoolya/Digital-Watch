@@ -1,0 +1,29 @@
+body {
+    background: url(https://ak.picdn.net/shutterstock/videos/1041282643/thumb/7.jpg?ip=x480);
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #04caf6;
+    font-size: 60px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+}
+#watch {
+    position: absolute;
+    width: 1000px;
+    top: 60%;
+    left: 60%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #04caf6;
+    font-size: 60px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+}
+
+
